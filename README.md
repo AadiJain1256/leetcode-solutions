@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
