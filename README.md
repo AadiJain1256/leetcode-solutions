@@ -1,106 +1,68 @@
-# leetcode-solutions
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
-| [0036-valid-sudoku](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0036-valid-sudoku) |
-| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
-| [0128-longest-consecutive-sequence](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
-| [0238-product-of-array-except-self](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
-| [0036-valid-sudoku](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0036-valid-sudoku) |
-| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
-| [0128-longest-consecutive-sequence](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
-| [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
-| [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
-| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Matrix
-|  |
-| ------- |
-| [0036-valid-sudoku](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0036-valid-sudoku) |
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0009-palindrome-number) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
-| [0125-valid-palindrome](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0125-valid-palindrome) |
-| [0242-valid-anagram](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0242-valid-anagram) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
-| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0125-valid-palindrome) |
-| [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
-| [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0234-palindrome-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
-| [0876-middle-of-the-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
-## Union-Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
-## Linked List
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
-| [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
-| [0206-reverse-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
-| [0876-middle-of-the-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Recursion
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Counting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
-## Stack
-|  |
-| ------- |
-| [0234-palindrome-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
-<!---LeetCode Topics End-->
+# LeetCode Solutions 🚀
+
+This repository contains my solutions to LeetCode problems solved while following the **NeetCode 150 Roadmap**.
+
+## 🎯 Objective
+
+My goal is to strengthen my problem-solving skills, master common data structures and algorithms, and prepare for software engineering and AI/ML technical interviews.
+
+Rather than memorizing solutions, I focus on understanding the underlying patterns, algorithmic intuition, and time-space trade-offs before implementing each solution independently.
+
+---
+
+## 📚 Learning Strategy
+
+For every problem, I follow this workflow:
+
+1. Learn the underlying concept and pattern.
+2. Solve the problem independently on LeetCode.
+3. Debug and optimize my own solution.
+4. Commit only the final accepted solution.
+
+---
+
+## 🧠 Topics Covered
+
+- Arrays & Hashing
+- Two Pointers
+- Stack
+- Binary Search
+- Sliding Window
+- Linked List
+- Trees
+- Heap / Priority Queue
+- Backtracking
+- Graphs
+- Dynamic Programming
+- Greedy
+- Intervals
+- Math & Bit Manipulation
+
+---
+
+## 💻 Language
+
+- Python
+
+---
+
+## 🎯 Goals
+
+- Complete the NeetCode 150 Roadmap
+- Improve algorithmic thinking
+- Strengthen interview problem-solving skills
+- Build consistency through daily practice
+
+---
+
+## 📈 Progress
+
+This repository is continuously updated as I solve more problems.
+
+---
+
+## ⭐ Note
+
+Every solution in this repository is my own implementation after understanding the underlying algorithm. The focus is on building strong problem-solving skills rather than simply collecting accepted submissions.
+
+Happy Coding! 🚀
