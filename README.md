@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -19,4 +21,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
