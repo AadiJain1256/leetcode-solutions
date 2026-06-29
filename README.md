@@ -51,8 +51,13 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
