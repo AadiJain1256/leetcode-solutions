@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Union-Find
 |  |
 | ------- |
@@ -46,4 +48,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
