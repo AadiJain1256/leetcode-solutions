@@ -66,3 +66,19 @@ This repository is continuously updated as I solve more problems.
 Every solution in this repository is my own implementation after understanding the underlying algorithm. The focus is on building strong problem-solving skills rather than simply collecting accepted submissions.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
+<!---LeetCode Topics End-->
