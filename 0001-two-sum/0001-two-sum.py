@@ -1,11 +1,13 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        hash={}
-        for i in range(len(nums)):
-            hash[nums[i]]=i
-        for i in range(len(nums)):
-            comp=target-nums[i]
-            if comp in hash and hash[comp]!=i:
-                return [i,hash[comp]]
+        dict={}
 
-        return []
+        for a in range(len(nums)):
+            
+            need = target-nums[a]
+            if need in dict:
+                return [a,dict[need]]
+
+            dict[nums[a]]=a
+
+            
