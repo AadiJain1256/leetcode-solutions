@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,10 +87,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
