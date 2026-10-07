@@ -1,22 +1,24 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        dicta={}
-        if len(t)!=len(s):
+        l={}
+        if len(s)!=len(t):
             return False
-        else:
-            for a in s:
-                if a in dicta:
-                    dicta[a]+=1
-                else:
-                    dicta[a]=1
-        for a in t:
-            if a not in dicta:
-                return False
-            else:
-                dicta[a]-=1
 
-        for a in dicta.values():
-            if a!=0:
-                return False
-            else:
-                return True
+        else:
+            for a in range(len(s)):
+                if s[a] not in l:
+                    l[s[a]]=1
+                else:
+                    l[s[a]]+=1
+
+            for a in range(len(t)):
+                if t[a] not in l:
+                    return False
+                else:
+                    l[t[a]]-=1
+
+            for a in l:
+                if l[a] !=0:
+                    return False
+            return True
+
