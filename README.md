@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -108,10 +109,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
