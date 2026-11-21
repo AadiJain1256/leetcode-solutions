@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0853-car-fleet) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
@@ -127,4 +129,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
