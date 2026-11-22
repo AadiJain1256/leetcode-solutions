@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -133,4 +134,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
