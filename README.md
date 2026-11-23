@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,8 +137,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
