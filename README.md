@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
@@ -147,4 +149,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AadiJain1256/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
