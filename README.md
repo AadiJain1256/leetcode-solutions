@@ -117,6 +117,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -158,4 +160,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AadiJain1256/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AadiJain1256/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
