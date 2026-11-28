@@ -1,22 +1,13 @@
-class Solution(object):
-    def carFleet(self, target, position, speed):
-        cars = []
+class Solution:
+    def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
+        cars=sorted(zip(position,speed),reverse=True)
+        fleet=0
+        slowest_time_ahead=0
 
-        for i in range(len(position)):
-            distance = target - position[i]
-            cars.append((position[i], distance, speed[i]))
+        for pos,vel in cars:
+            time=(target-pos)/vel
+            if time > slowest_time_ahead:
+                fleet+=1
+                slowest_time_ahead=time
 
-        cars.sort(reverse=True)
-
-        fleets = 0
-        slowest_distance = 0
-        slowest_speed = 1
-
-        for pos, distance, car_speed in cars:
-            # distance / car_speed > slowest_distance / slowest_speed
-            if distance * slowest_speed > slowest_distance * car_speed:
-                fleets += 1
-                slowest_distance = distance
-                slowest_speed = car_speed
-
-        return fleets
+        return fleet
